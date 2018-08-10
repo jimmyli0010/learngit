@@ -5,3 +5,4 @@ Git track changes of files.
 Creating a new branch is quick and simple.
 Add story2 file.
 Add story3 file.
+Add story5 file by another person.
