@@ -1,3 +1,4 @@
 This is a txt on new master branch.
 This is changed on story2 develop.
 This is changed on story3 develop.
+This is changed on story4 develop.
